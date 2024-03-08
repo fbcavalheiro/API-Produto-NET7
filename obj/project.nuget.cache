@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRMkRVDwJjU6bPsuvXOY2QwfiHczMyS8R0JkWWJELrKKdgPsYDOTMgam0Zw9YBsGGOPrIKjaMNVrUx0H1KmzvQ==",
+  "dgSpecHash": "Jyuk4lpCdiG7KwoQto51z4iOZHWWZ3euQrB9n+EpQ4NbpdEHYTGH5ZD7li0/G26xggkDJK2vlyPsv+xGNN6auA==",
   "success": true,
-  "projectFilePath": "C:\\Estudo\\Projects\\Fundamentos de APIs em ASP.NET Core-net7\\ApiFuncional.csproj",
+  "projectFilePath": "C:\\Estudo\\Projects\\API-Produto-NET7\\ApiFuncional.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FredPC\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\FredPC\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
